@@ -11,18 +11,10 @@ import os
 import csv
 #import time
 
-
-# In[587]:
-
-
 filepath = ''
 pypath = ''
 rows = 0
 test = 0
-
-
-# In[588]:
-
 
 def filepath_enter(entry, output_text, size_button, files_button, row_button):
     global filepath
